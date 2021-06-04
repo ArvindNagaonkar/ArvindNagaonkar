@@ -6,4 +6,4 @@
 - 🧐 I'm currently learning express Js and Mongodb
 - 👯‍♂️ I'm looking to collabrate with other React Devlopers
 - 🥅 2022 Golas: Contribute more to Open Source projects
-- 🙃 Fun fact: I'm a Valorant Player 🎮.
+- 🙃 Fun fact: I'm a Valorant Player 🎮 and anime fan.
