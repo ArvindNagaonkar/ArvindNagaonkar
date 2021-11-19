@@ -4,6 +4,6 @@
 
 - 🔭 I'm currently working on a [website]!
 - 🧐 I'm currently learning Next.Js
-- 👯‍♂️ I'm looking to collabrate with other React Devlopers
+- 👯‍♂️ I'm looking to collabrate with other Next.JS Devlopers
 - 🥅 2022 Golas: Contribute more to Open Source projects
 - 🙃 Fun fact: I'm a Valorant Player 🎮 and anime fan.
